@@ -1,3 +1,4 @@
+<div dir="ltr">
 <ol>
 <li>Küçük, D., & Can, F. (2025). <b>Computational Law: Datasets, Benchmarks, and Ontologies.</b> arXiv preprint arXiv:2503.04305.</li>
 <li>Küçük, D., & Can, F. (2024). <b>Exploiting Artificial Intelligence Technologies for Automatic Processing of Legal Texts.</b> Digital L. Rev., 6, 1.</li>
@@ -10,3 +11,4 @@
 <li>Güvengir, U., Küçük, D., Buhan, S., Mantaş, C. A., Yeniceli, M. 2023. <b>Classification of Power Quality Events in the Transmission Grid: Comparative Evaluation of Different Machine Learning Models</b>, In Proceedings of the 4th SEERC Conference. İstanbul, Türkiye.</li>
 <li>Küçük, D., Buhan, S., Demirci, T., Özkan, M. B., Çınar, M. S., Altıntaş, E., Güvengir, U., Çelik, S. B., Uçar, S., Mantaş, C. A., Yeniceli, M., Noyan, N., Yeşil, M. Güler, Ş. N., Kayaoğlu, İ. E., Yener, U., Bayındır, K. Ç. 2022. <b>TEKİS: TEİAŞ Elektrik Güç Kalitesi ve Şebeke İzleme Sistemi</b>, Güç Sistemleri Konferansı. Ankara, Türkiye.</li>
 </ol>
+</div>
